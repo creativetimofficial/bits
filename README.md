@@ -31,15 +31,15 @@ An awesome library of Bootstrap snippets to avoid typing repetitive code, no nee
 ## Useful Links
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=mk-github-readme) (earn money)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=bits-github-readme) (earn money)
 - [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=mk-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=mk-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=mk-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=mk-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=mk-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=mk-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=mk-github-readme)
+- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=bits-github-readme) from Creative Tim
+- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=bits-github-readme) from Creative Tim
+- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=bits-github-readme) from Creative Tim
+- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=bits-github-readme) from Creative Tim
+- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=bits-github-readme) from Creative Tim
+- [More products](https://www.creative-tim.com/bootstrap-themes?ref=bits-github-readme) from Creative Tim
+- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=bits-github-readme)
 
 ## Social Media
 
