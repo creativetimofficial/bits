@@ -3,28 +3,41 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/bits.svg?maxAge=2592000)](https://github.com/creativetimofficial/bits/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/bits.svg?maxAge=2592000)](https://github.com/creativetimofficial/bits/issues?q=is%3Aissue+is%3Aclosed)
 
-![Thumbnail](https://raw.githubusercontent.com/creativetimofficial/bits-generator/dev-master/assets/images/snippets_thumbnail.jpg?token=AGUJY5WSEFYANAGAGHVMT7K66HFBC)
+![Thumbnail](https://raw.githubusercontent.com/creativetimofficial/bits-generator/dev-master/assets/images/snippets_thumbnail.jpg?token=AGUJY5W5UR3LHDKVXF4UTVTA3LZPW)
 
-An awesome library of Bootstrap snippets to avoid typing repetitive code, no need to download an entire theme.
+An awesome library of Bootstrap and Tailwind CSS snippets to avoid typing repetitive code, no need to download an entire theme.
 
 ## Snippets example
+
+* [Bootstrap Snippets](https://www.creative-tim.com/bits/tags/bootstrap)
+* [Tailwind Snippets](https://www.creative-tim.com/bits/tags/tailwind)
+
+
+### Bootstrap Snippets
 
 * [Bootstrap Stats Card](https://www.creative-tim.com/bits/bootstrap/bootstrap-stats-card-argon-dashboard)
 * [Signup Page](https://www.creative-tim.com/bits/bootstrap/signup-page-now-ui-kit)
 * [Profile Page Template](https://www.creative-tim.com/bits/bootstrap/profile-page-template-material-kit)
 * [Pricing Page](https://www.creative-tim.com/bits/bootstrap/pricing-page-material-kit)
 
+### Tailwind Snippets
+
+* [Tailwind CSS Alerts](https://www.creative-tim.com/bits/tailwindcss/tailwindcss-alerts-alert-examples-tailwind-starter-kit-pmatwucz)
+* [Tailwind CSS Large Filled Buttons](https://www.creative-tim.com/bits/tailwindcss/tailwindcss-large-filled-buttons-only-text-tailwind-starter-kit-rtb27dza)
+* [Tailwind CSS Progress Bars](https://www.creative-tim.com/bits/tailwindcss/tailwindcss-progressbars-badge-and-completion-tailwind-starter-kit-zL7chv6r)
+* [Tailwind CSS Image Circle Raised](https://www.creative-tim.com/bits/tailwindcss/tailwindcss-image-types-circle-raised-tailwind-starter-kit-qcomaz36)
+
 ## Snippets build with
 
 * [Material Kit](https://www.creative-tim.com/product/material-kit)
 * [Now UI Kit](https://www.creative-tim.com/product/now-ui-kit)
 * [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard)
-
+* [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 
 ## Licensing
 
 
-- Copyright &copy; 2020 Creative Tim (https://www.creative-tim.com)
+- Copyright &copy; 2021 Creative Tim (https://www.creative-tim.com)
 - Licensed under MIT (https://github.com/creativetimofficial/bits/blob/master/LICENSE.md)
 
 
