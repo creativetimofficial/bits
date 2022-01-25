@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/bits.svg?maxAge=2592000)](https://github.com/creativetimofficial/bits/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/bits.svg?maxAge=2592000)](https://github.com/creativetimofficial/bits/issues?q=is%3Aissue+is%3Aclosed)
 
-![Thumbnail](https://raw.githubusercontent.com/creativetimofficial/bits-generator/dev-master/assets/images/snippets_thumbnail.jpg?token=AGUJY5W5UR3LHDKVXF4UTVTA3LZPW)
+![Thumbnail](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/bits/snippets_thumbnail.jpeg)
 
 An awesome library of Bootstrap and Tailwind CSS snippets to avoid typing repetitive code, no need to download an entire theme.
 
